@@ -24,9 +24,9 @@
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FF8C00&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logo=JAVA&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&logoColor=FF8C00&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=FF8C00&labelColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&logoColor=FF8C00&labelColor=0D1117)&nbsp;
+![Sql](https://img.shields.io/badge/-Sql-0D1117?style=for-the-badge&logo=sql&logoColor=FF8C00&labelColor=0D1117)&nbsp;
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B0C4DE&height=120&section=footer"/>
